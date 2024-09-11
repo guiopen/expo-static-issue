@@ -1,5 +1,5 @@
 # expo-static-issue
-a minimal reproductible example of the bug
+Created with npx create-expo-app@latest without further work 
 
 steps to reproduce:
   1 - Build the website with npx expo export --platform web
