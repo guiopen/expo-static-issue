@@ -2,6 +2,7 @@
 Created with npx create-expo-app@latest without further work 
 
 steps to reproduce:
+
   1 - Build the website with npx expo export --platform web
   
   2 - In the browser, open the index.html produced inside the dist folder to verify the conent, it should be empty besides the navigation bar
